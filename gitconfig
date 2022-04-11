@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = poklekowskipia@gmail.com
+	name = PiaPoklekowski
